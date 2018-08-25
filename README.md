@@ -4,3 +4,4 @@ a young repository, full of precociousness and wondrement, that aspires to one d
 <br>
 MIND CURRENTLY UNDER CONSTRUCTION. CONTRIBUTIONS WILL BEGIN IN THE VERY NEAR FUTURE. 
 </br>
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
